@@ -36,6 +36,8 @@ You can find more information in the official Solana Documentation.
 Website Links ： https://recymysol.com
 Spare links ： https://0xsol.com
 
+(Blowfish ticket number :2623)
+
 
 
 ## 关于
